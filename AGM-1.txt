@@ -1,0 +1,5 @@
+My name is mahima. 
+I'm studying master of computer applications in Aditya university, surampallem.
+Agile methodology is a flexible project management and product development approach that breaks work into small, repeating cycles called iterations.
+Instead of following a rigid, long-term plan, Agile focuses on continuous collaboration, fast feedback, and delivering small usable parts of a project frequently. 
+It originated in software development but is now used across many industries like marketing, finance, and design.
